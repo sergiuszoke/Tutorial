@@ -1,0 +1,5 @@
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache

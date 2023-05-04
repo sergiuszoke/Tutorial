@@ -1,0 +1,14 @@
+D:\WeatherForecast\DataAccesLayer\bin\Debug\net6.0\DataAccesLayer.deps.json
+D:\WeatherForecast\DataAccesLayer\bin\Debug\net6.0\DataAccesLayer.runtimeconfig.json
+D:\WeatherForecast\DataAccesLayer\bin\Debug\net6.0\DataAccesLayer.dll
+D:\WeatherForecast\DataAccesLayer\bin\Debug\net6.0\DataAccesLayer.pdb
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.csproj.AssemblyReference.cache
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.AssemblyInfoInputs.cache
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.AssemblyInfo.cs
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.csproj.CoreCompileInputs.cache
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.dll
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\refint\DataAccesLayer.dll
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.pdb
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.genruntimeconfig.cache
+D:\WeatherForecast\DataAccesLayer\obj\Debug\net6.0\ref\DataAccesLayer.dll
